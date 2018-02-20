@@ -1,6 +1,7 @@
 0) Create a new Bookmarklet in your Bookmarks Bar Using This Code :
 ```javascript
-javascript:(function()%7Bvar%20s%3Ddocument.createElement('script')%3Bs.setAttribute('src'%2C'https%3A%2F%2Fcode.jquery.com%2Fjquery.js')%3Bdocument.getElementsByTagName('body')%5B0%5D.appendChild(s)%3Bwindow.setInterval(function()%7B%24(%22.recsGamepad__button--like%22).click()%7D%2C%202000)%7D)()```
+javascript:(function()%7Bvar%20s%3Ddocument.createElement('script')%3Bs.setAttribute('src'%2C'https%3A%2F%2Fcode.jquery.com%2Fjquery.js')%3Bdocument.getElementsByTagName('body')%5B0%5D.appendChild(s)%3Bwindow.setInterval(function()%7B%24(%22.recsGamepad__button--like%22).click()%7D%2C%202000)%7D)()
+```
 1) Open https://tinder.com and Log In
 2) Run The Bookmarklet
 3) Have Fun ♥
