@@ -1,11 +1,11 @@
-## 1. Open Your Instagram Account
-## 2. Choose a Hashtag : example => Cats
-## 3. Replace this with your hashtag : 
-## https://www.instagram.com/explore/tags/{{hashtag}}
-## Example : https://www.instagram.com/explore/tags/cats
-## 4. Open The First Picture
-## 5. Copy/Paste The code below in Console
-## 6. Have Fun ♥
+### 1. Open Your Instagram Account
+### 2. Choose a Hashtag : example => Cats
+### 3. Replace this with your hashtag : 
+### https://www.instagram.com/explore/tags/{{hashtag}}
+### Example : https://www.instagram.com/explore/tags/cats
+### 4. Open The First Picture
+### 5. Copy/Paste The code below in Console
+### 6. Have Fun ♥
 
 ```javascript
 /* InstagramBot Liker/Follower By AdemKouki*/
