@@ -6,7 +6,7 @@ javascript:(function()%7Bvar%20s%3Ddocument.createElement('script')%3Bs.setAttri
 2) Run The Bookmarklet
 3) Have Fun ♥
 
-###### (*) if you don't know how to make a bookmarket, please follow this tutorial
+###### (*) if you don't know how to make a bookmarket, please follow [this tutorial](https://github.com/Ademking/Useful-Bookmarklets/blob/master/How_To_Create_Bookmarklet.md)
 ------
 
 ### Raw Code : (For Debug)
