@@ -10,7 +10,8 @@ Example : https://www.instagram.com/explore/tags/cats
 5) Run The Bookmarklet
 6) Have Fun ♥
 
-###### (*) if you don't know how to make a bookmarket, please follow this tutorial
+###### (*) if you don't know how to make a bookmarket, please follow [this tutorial](https://github.com/Ademking/Useful-Bookmarklets/blob/master/How_To_Create_Bookmarklet.md)
+
 ------
 
 ### Raw Code : (For Debug)
