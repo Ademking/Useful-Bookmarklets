@@ -4,20 +4,13 @@ javascript:(function()%7Bvar%20s%3Ddocument.createElement('script')%3Bs.setAttri
 ```
 1) Open Your Instagram Account
 2) Choose a Hashtag : example => Cats
-3) Replace this with your hashtag : 
-https://www.instagram.com/explore/tags/{{hashtag}}
+3) Modify This link with your hashtag https://www.instagram.com/explore/tags/{{{hashtag}}}
 Example : https://www.instagram.com/explore/tags/cats
 4) Open The First Picture
 5) Run The Bookmarklet
 6) Have Fun ♥
 
 ###### (*) if you don't know how to make a bookmarket, please follow this tutorial
-
-
-
-
-------
-------
 ------
 
 ### Raw Code : (For Debug)
